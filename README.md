@@ -9,8 +9,8 @@ A React app showcasing a collection of books using reusable components, built wi
 
 ## Links
 
-- **GitHub Repository:** _add-your-github-repository-link-here_
-- **Live Website:** _add-your-live-deployment-link-here_
+- **GitHub Repository:** https://github.com/Thameem47/booklibrary_Thameem.git
+- **Live Website:** https://gilded-praline-90b0b3.netlify.app/
 
 ## Project Structure
 
